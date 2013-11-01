@@ -1,0 +1,53 @@
+#wrapper {
+  width: 90%;
+  margin: auto;
+}
+
+#bb {
+  width: 45%;
+  margin: auto;
+  margin-left: 5px;
+  background: white;
+  font-family: 'Roboto', sans-serif;
+  border: 2px black dotted;
+  float:left;
+  padding-right: 30px;
+
+}
+
+p {
+  margin-top:-20px;
+  color: royalblue;
+  text-indent: 31px;
+}
+
+#country {
+  width: 45%;
+  margin: auto;
+  font-family: 'Roboto', sans-serif;
+  float:right;
+  border: 2px black dotted;
+  padding: 5px;
+}
+
+#rap {
+  width: 45%;
+  margin: auto;
+  font-family: 'Roboto', sans-serif;
+  float:left;
+  border-right: 2px black dotted;
+  border: 2px black dotted;
+  padding-right: 30px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+#electronic {
+  width: 45%;
+  margin: auto;
+  font-family: 'Roboto', sans-serif;
+  float:right;
+  border: 2px black dotted;
+  padding: 5px;
+  margin-top: 5px;
+}
